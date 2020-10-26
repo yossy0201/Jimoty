@@ -4,3 +4,8 @@ header('Content-Type: text/css;charaset=utf-8');
 
 // print "h1 {color:brown; }";
 print "header-top {color:green; }"; 
+
+// print "first {color:red; }"; 
+
+
+print "text {font-size: 0.625rem; }"; 
