@@ -11,9 +11,10 @@
     <h5>地元の掲示板ジモティー</h5>
     <div class="All">
       <div class="text">17093855件 10/26更新
-        <a class="jimotonokeijiban-jimoty">地元の掲示板 ジモティー
-        </a>
-
+        <a class="jimotonokeijiban-jimoty" href="https://jmty.jp/">地元の掲示板 ジモティー</a>
+      <div class="first-rogin-regster">
+        
+      </div>
 
       </div>
     </div>
