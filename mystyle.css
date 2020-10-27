@@ -1,0 +1,17 @@
+.link-gray {
+  color: gray;
+  text-decoration: none;
+}
+.first-btn {
+  color: blue;
+  text-decoration: none;
+}
+.rogin-btn {
+  color: blue;
+  text-decoration: none;
+}
+.regist-btn {
+  color: green;
+  text-decoration: none;
+  border: 1, 1px;
+}
