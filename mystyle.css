@@ -14,4 +14,9 @@
   color: green;
   text-decoration: none;
   border: 1, 1px;
+  background-color: white;
+  padding: 0.5rem;
+  border: 1px solid #219E62;
+  border-radius: 5px;
 }
+

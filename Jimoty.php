@@ -7,8 +7,8 @@
   </head>
 
   <body>
-    <div class="header">
-      <div class=jimotono-jimoty>
+    <div class="white_canvas">
+      <div class=p-header>
         <div class="jimoty">地元の掲示板ジモティー
           <div class="text">17093855件 10/26更新
             <a class="link-gray" href="https://jmty.jp/">地元の掲示板 ジモティー</a>
