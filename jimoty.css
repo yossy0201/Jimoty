@@ -1,13 +1,18 @@
+body {
+  margin: 0 auto;
+}
+
 header {
   display: flex;
   width: 100%;
-  height: 100px;
+  height: 50px;
   align-items: center;
-  border-bottom: 1px solid #ccc;
+  border-top: 4px solid #219E62;
 }
  
 .title {
-  margin-right: auto;
+  margin-right: 230px;
+  margin-left: 200px;
 }
  
 .menu-item {
