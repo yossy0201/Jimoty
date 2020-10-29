@@ -26,3 +26,29 @@ header {
   width: 1450px;
   height: 445px;
 }
+
+.back-pic__in {
+  margin-left: 220px;
+  margin-right: 220px;
+  height: 445px;
+  width: 1000px;
+}
+
+.back-text-center {
+  width: 1000px;
+  height: 110px;
+}
+
+.back-text-center-in {
+  width: 1000px;
+  height: 95px;
+}
+
+.text {
+  color: white;
+  text-shadow: 0 3px 6px #333;
+  text-align: center;
+  font-weight: bold;
+  font-size: 45px;
+  margin-top: 0px;
+}

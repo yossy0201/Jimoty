@@ -36,7 +36,12 @@
     </div>
   </header>
   <div class="back-pic" style="background-image: url(https://d1d7kfcb5oumx0.cloudfront.net/assets/top/header_image2-42539bc4bd707bb7add924d4892d175a3096b65cb8cc231248799d43505c9844.png);">
-    <div class="pic-in">
+    <div class="back-pic__in">
+      <div class="back-text-center">
+        <div class="back-text-center-in">
+          <p class="text">必要なものを必要な人へ</p>
+        </div>
+      </div>
     </div>
   </div>
 
