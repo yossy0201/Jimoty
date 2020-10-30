@@ -74,13 +74,26 @@ header {
   height: 35px;
 }
 
+.serch-left-contents {
+  width: 250px;
+  height: 35px;
+}
+
 .prefecture {
   width: 100px;
   height: 20px;
   margin-left: 8px;
+  float: right;
 }
 
 .prefecture-in {
   width: 100px;
   height: 20px;
+  font-weight: bold;
+  padding-top: 5px;
+}
+
+.prefecture-text {
+  color: #06C;
+  text-decoration: none;
 }
