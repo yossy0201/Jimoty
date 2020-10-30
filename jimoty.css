@@ -61,3 +61,26 @@ header {
   font-size: 45px;
   margin-top: 0px;
 }
+
+.serch {
+  width: 1000px;
+  height: 60px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.jimoty-logo {
+  width: 120px;
+  height: 35px;
+}
+
+.prefecture {
+  width: 100px;
+  height: 20px;
+  margin-left: 8px;
+}
+
+.prefecture-in {
+  width: 100px;
+  height: 20px;
+}

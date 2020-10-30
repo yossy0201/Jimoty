@@ -45,8 +45,19 @@
           <p class="text" style="font-size: 28px;">あなたのいらないが誰かの役に立つ</p>
         </div>
       </div>
-      <div class="">
-        
+      <div class="serch">
+        <div class="serch-left-contents">
+          <a href="https://jmty.jp/">
+            <img alt="ジモティー" class="jimoty-logo" src="https://d1d7kfcb5oumx0.cloudfront.net/assets/jmty/logo-ef3e7668269923260523a3d270fd0bc61d24b62fa72967c1e3163c7aad492cf5.svg">
+          </a>
+          <div class="prefecture">
+            <div class="prefecture-in">
+              <a rel="nofollow" class="prefecture-text" href="#prefectures_list">
+                都道府県選択
+              </a>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
