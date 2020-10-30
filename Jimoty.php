@@ -41,6 +41,12 @@
         <div class="back-text-center-in">
           <p class="text">必要なものを必要な人へ</p>
         </div>
+        <div class="back-text-center-in">
+          <p class="text" style="font-size: 28px;">あなたのいらないが誰かの役に立つ</p>
+        </div>
+      </div>
+      <div class="">
+        
       </div>
     </div>
   </div>

@@ -52,3 +52,12 @@ header {
   font-size: 45px;
   margin-top: 0px;
 }
+
+.text-two {
+  color: white;
+  text-shadow: 0 3px 6px #333;
+  text-align: center;
+  font-weight: bold;
+  font-size: 45px;
+  margin-top: 0px;
+}
