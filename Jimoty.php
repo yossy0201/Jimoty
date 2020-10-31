@@ -58,9 +58,30 @@
             </div>
           </div>
         </div>
+        <div class="serch-center-contents">
+          <form class="serch" action="/all/search" accept-charset="UTF-8" method="get">
+            <input name="utf8" type="hidden" value="✓">
+            <div class="input-group">
+              <input type="text" name="keyword" maxlength="25" size="24" placeholder="何をお探しですか？" class="input-group-field" style="width: 320px;height: 22px;padding-top: 8px;padding-bottom: 8px;padding-left: 8px;padding-right: 8px;border-top-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px;">
+              <div class="group-btn" style="width: 160px; height: 40px;">
+                <select name="category_group" id="category_group" class="select-box" style="width: 160px; height: 40px;">
+                  <option value="sale">売ります・あげます</option>
+                  <option value="car">中古車</option>
+                  <option value="pet">里親募集</option>
+                  <option value="com">メンバー募集</option>
+                  <option value="coop">助け合い</option>
+                  <option value="rec">アルバイト</option>
+                  <option value="job">正社員</option>
+                  <option value="les">教室・スクール</option>
+                  <option value="eve">イベント</option>
+                  <option value="est">不動産</option>
+                  <option value="ser">地元のお店</option>
+                </select>
+              </div>
+            </div>
+        </div>
       </div>
     </div>
   </div>
-
 </body>
 </html>

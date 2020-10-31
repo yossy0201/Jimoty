@@ -79,6 +79,32 @@ header {
   height: 35px;
 }
 
+.serch-center-contents {
+  margin-left: 24px;
+  width: 555px;
+  height: 40px;
+}
+
+/* .input-group {
+  width: 555px;
+  height: 40px;
+}
+
+.group-btn {
+  width: 160px;
+  height: 40px;
+} */
+
+.select-box {
+  width: 160px;
+  height: 40px;
+}
+
+.serch {
+  width: 555px;
+  height: 40px;
+}
+
 .prefecture {
   width: 100px;
   height: 20px;
