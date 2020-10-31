@@ -77,6 +77,7 @@ header {
 .serch-left-contents {
   width: 250px;
   height: 35px;
+  display: flex;
 }
 
 .serch-center-contents {
@@ -87,11 +88,25 @@ header {
 
 
 .input-group {
-  /* width: 555px;
-  height: 40px; */
   display: flex;
 }
 
+.post {
+  margin-left: 32px;
+  width: 165px;
+  height: 60px;
+}
+
+.post-btn {
+  width: 125px;
+  height: 17px;
+  padding: 20px;
+  border: 1px;
+  color: white;
+  background-color: #219E62;
+  text-decoration: none;
+  border-radius: 5px;
+}
 
 
 .select-box {
@@ -102,17 +117,18 @@ header {
 .serch {
   width: 555px;
   height: 40px;
+  display: flex;
 }
 
 .prefecture {
-  width: 100px;
+  width: 130px;
   height: 20px;
   margin-left: 8px;
   float: right;
 }
 
 .prefecture-in {
-  width: 100px;
+  width: 130px;
   height: 20px;
   font-weight: bold;
   padding-top: 5px;

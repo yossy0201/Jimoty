@@ -53,7 +53,7 @@
           <div class="prefecture">
             <div class="prefecture-in">
               <a rel="nofollow" class="prefecture-text" href="#prefectures_list">
-                都道府県選択
+                都道府県選択 🔽
               </a>
             </div>
           </div>
@@ -78,13 +78,17 @@
                   <option value="ser">地元のお店</option>
                 </select>
               </div>
-              <div class="input-group-btn" style="width:160px; height: 40px;">
-                <button name="button" type="submit" class="s-btn" style="height: 42px;width: 60px;padding-top: 0px;padding-bottom: 0px;padding-left: 14px;padding-right: 14px;
-                 border-top-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px; color: #219E62; border:1px solid; background-color: white; border-radius: 5px;font-weight:bold;">検索
+              <div class="input-group-btn" style="width:60px; height: 40px;">
+                <button name="button" type="submit" class="s-btn" style="height: 40px;width: 60px;padding-top: 0px;padding-bottom: 0px;padding-left: 14px;padding-right: 14px;
+                 border-top-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px; color: #219E62; border:1px solid; background-color: white; border-radius: 2px;font-weight:bold;">検索
                 </button>
               </div>
           </form>
-              <div class="post"></div>
+              <div class="post">
+                <a rel="nofollow" class="post-btn" data-category="post_button" data-action="click" data-label="pc" href="https://jmty.jp/users/sign_up?completed_return_to=%2Farticles%2Fnew%3Fprefecture_id%3D0">
+                  投稿画面へ(無料)
+                </a>
+              </div>
             </div>
         </div>
       </div>
