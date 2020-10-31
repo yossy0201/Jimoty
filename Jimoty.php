@@ -37,21 +37,13 @@
   </header>
   <div class="back-pic" style="background-image: url(https://d1d7kfcb5oumx0.cloudfront.net/assets/top/header_image2-42539bc4bd707bb7add924d4892d175a3096b65cb8cc231248799d43505c9844.png);">
     <div class="back-pic__in">
-      <div class="back-text-center">
-        <div class="back-text-center-in">
-          <p class="text">必要なものを必要な人へ</p>
-        </div>
-        <div class="back-text-center-in">
-          <p class="text" style="font-size: 28px;">あなたのいらないが誰かの役に立つ</p>
-        </div>
-      </div>
       <div class="serch">
         <div class="serch-left-contents">
-          <a href="https://jmty.jp/">
+          <a href="https://jmty.jp/" style="padding-top: 20px;">
             <img alt="ジモティー" class="jimoty-logo" src="https://d1d7kfcb5oumx0.cloudfront.net/assets/jmty/logo-ef3e7668269923260523a3d270fd0bc61d24b62fa72967c1e3163c7aad492cf5.svg">
           </a>
           <div class="prefecture">
-            <div class="prefecture-in">
+            <div class="prefecture-in" style="padding-top: 25px;">
               <a rel="nofollow" class="prefecture-text" href="#prefectures_list">
                 都道府県選択 🔽
               </a>
@@ -89,6 +81,13 @@
                   投稿画面へ(無料)
                 </a>
               </div>
+            </div>
+            <div class="back-text-center">
+               <div class="back-text-center-in">
+                <p class="text" style="width: 500px;">必要なものを必要な人へ</p>
+            </div>
+            <div class="back-text-center-in">
+              <p class="text" style="font-size: 28px; width: 500px; margin-top: 10px;">あなたのいらないが誰かの役に立つ</p>
             </div>
         </div>
       </div>
