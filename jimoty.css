@@ -85,15 +85,14 @@ header {
   height: 40px;
 }
 
-/* .input-group {
-  width: 555px;
-  height: 40px;
+
+.input-group {
+  /* width: 555px;
+  height: 40px; */
+  display: flex;
 }
 
-.group-btn {
-  width: 160px;
-  height: 40px;
-} */
+
 
 .select-box {
   width: 160px;

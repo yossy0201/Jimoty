@@ -63,7 +63,7 @@
             <input name="utf8" type="hidden" value="✓">
             <div class="input-group">
               <input type="text" name="keyword" maxlength="25" size="24" placeholder="何をお探しですか？" class="input-group-field" style="width: 320px;height: 22px;padding-top: 8px;padding-bottom: 8px;padding-left: 8px;padding-right: 8px;border-top-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px;">
-              <div class="group-btn" style="width: 160px; height: 40px;">
+              <div class="input-group-btn" style="width: 160px; height: 40px;">
                 <select name="category_group" id="category_group" class="select-box" style="width: 160px; height: 40px;">
                   <option value="sale">売ります・あげます</option>
                   <option value="car">中古車</option>
@@ -78,6 +78,13 @@
                   <option value="ser">地元のお店</option>
                 </select>
               </div>
+              <div class="input-group-btn" style="width:160px; height: 40px;">
+                <button name="button" type="submit" class="s-btn" style="height: 42px;width: 60px;padding-top: 0px;padding-bottom: 0px;padding-left: 14px;padding-right: 14px;
+                 border-top-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px; color: #219E62; border:1px solid; background-color: white; border-radius: 5px;font-weight:bold;">検索
+                </button>
+              </div>
+          </form>
+              <div class="post"></div>
             </div>
         </div>
       </div>
