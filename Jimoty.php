@@ -93,5 +93,12 @@
       </div>
     </div>
   </div>
+  <div class="l-container">
+    <div class="u-margin-l-t">
+      <div class="pic-up">
+      PICK UP
+      </div>
+    </div>
+  </div>
 </body>
 </html>

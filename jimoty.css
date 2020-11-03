@@ -143,3 +143,17 @@ header {
   color: #06C;
   text-decoration: none;
 }
+
+.l-container {
+  width: 1000px; 
+  height: 4000px;
+  margin: 0px;
+  padding: 0px;
+}
+.u-margin-l-t {
+  width: 1000px;
+  height: 380px;
+  margin-top: 26px;
+  padding-bottom: 4px;
+
+}
