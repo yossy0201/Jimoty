@@ -96,7 +96,7 @@
   <div class="l-container">
     <div class="u-margin-l-t">
       <div class="pic-up">
-      PICK UP
+      PICK UP 
       </div>
     </div>
   </div>
